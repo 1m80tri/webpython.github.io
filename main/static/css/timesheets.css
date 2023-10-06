@@ -1,0 +1,24 @@
+.main .form-date-picker{
+    margin: 16px 0 12px 2.5%;
+}
+.main .button-date{
+    background: #F4F5F7;
+    padding: 11px 24px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+}
+
+.main .button-date.icon{
+    padding: 8px;
+}
+
+.main .button-date:hover {
+    cursor: pointer;
+    background: #E0E2E7;
+    transition: background 0.8s ease;
+}
+
+.main .input-group.date {
+    margin-left: 8px;
+    cursor: pointer;
+}
